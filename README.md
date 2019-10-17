@@ -3,8 +3,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Node.js;
-React;
+- Node.js;
+- React;
 
 
 Projeto
