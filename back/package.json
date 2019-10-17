@@ -7,7 +7,7 @@
     "start": "node src/server.js",
     "dev": "supervisor src/server.js"
   },
-  "author": "",
+  "author": "Fernando",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
